@@ -1,4 +1,4 @@
-package wordCount;
+package wordcount;
 
 import java.util.Comparator;
 import java.util.LinkedHashMap;
